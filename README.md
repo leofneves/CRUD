@@ -8,9 +8,9 @@
 3. npm start
 
 <h3>Server</h3>
-1. cd server
-2. npm install
-3. npm run dev
+<p>1. cd server</p>
+<p>2. npm install</p>
+<p>3. npm run dev</p>
 
 <h2>Funcionalidades</h2>
 - Crie de uma lista de jogos no banco de dados
