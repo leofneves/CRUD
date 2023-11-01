@@ -1,11 +1,11 @@
 <h1>Estudo em CRUD</h1>
-<p>Sistema desenvolvido em React JS com banco MYSQL com</p>
+Sistema desenvolvido em React JS com banco MYSQL com</br>
 
 <h2>Instalação</h2>
 <h3>Client</h3>
-<p>1. cd client</p>
-<p>2. npm install</p>
-<p>3. npm start</p>
+1. cd client</br>
+2. npm install</br>
+3. npm start</br>
 
 <h3>Server</h3>
 <p>1. cd server</p>
