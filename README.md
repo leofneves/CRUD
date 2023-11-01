@@ -8,24 +8,24 @@ Sistema desenvolvido em React JS com banco MYSQL com</br>
 3. npm start</br>
 
 <h3>Server</h3>
-<p>1. cd server</p>
-<p>2. npm install</p>
-<p>3. npm run dev</p>
+1. cd server</br>
+2. npm install</br>
+3. npm run dev</br>
 
 <h2>Funcionalidades</h2>
-<p>- Crie de uma lista de jogos no banco de dados</p>
-<p>- Leia os jogos no banco</p>
-<p>- Atualize o jogo no banco</p>
-<p>- Exclua o jogo do banco</p>
-<p>- Clique no card para editar ou excluir o jogo</p>
+- Crie de uma lista de jogos no banco de dados</br>
+- Leia os jogos no banco</br>
+- Atualize o jogo no banco</br>
+- Exclua o jogo do banco</br>
+- Clique no card para editar ou excluir o jogo</br>
 
 <h2>Dependências:</h2>
 <h3>Front-end</h3>
-<p>- @material-ui</p>
-<p>- Axios</p>
+- @material-ui</br>
+- Axios</br>
 
 <h3>Back-end</h3>
-<p>- express</p>
-<p>- mysql</p>
-<p>- nodemon</p>
-<p>- cors</p>
+- express</br>
+- mysql</br>
+- nodemon</br>
+- cors</br>
